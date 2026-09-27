@@ -5,7 +5,7 @@
 <div align="center">
   <h2>Hi, I’m Halashankara Swamy PBM </h2>
   <h4>A passionate Software Developer who loves turning ideas into scalable, impactful applications.</h4>
-  <p>💻 Tech Stack: Java | Spring Boot | Hibernate | React | MERN | SQL | Git/GitHub <br>
+  <p>💻 Tech Stack: Java | Cloud | Devops | AWS | SQL | GitLab | GitHub <br>
 🚀 What I Do: Build full-stack applications, craft clean code, and solve real-world problems with technology. <br>
 📚 Projects: From AI-powered SaaS platforms to library & billing management systems, I thrive on creating solutions that matter. <br>
 🌱 Currently Exploring: Advanced Full Stack Development & Cloud-Native Apps. <br>
