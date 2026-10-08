@@ -17,7 +17,7 @@
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/34de756b-a89b-4c07-9cf6-1bd59f4bd9de)
 
 <!-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/9deee90a-1918-49fa-bb73-6a85f3499b85" alt="My Image" width="1000" height="200">
+  <img src="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake-dark.svg" alt="My Image" width="1000" height="200">
 </p> -->
 
 <p align="center">  
